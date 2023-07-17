@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MicroMaze/static/css/main.0832cd0d.chunk.css",
+    "main.js": "/MicroMaze/static/js/main.3d0e77fc.chunk.js",
+    "main.js.map": "/MicroMaze/static/js/main.3d0e77fc.chunk.js.map",
+    "runtime-main.js": "/MicroMaze/static/js/runtime-main.4f77fecd.js",
+    "runtime-main.js.map": "/MicroMaze/static/js/runtime-main.4f77fecd.js.map",
+    "static/js/2.f0583ba6.chunk.js": "/MicroMaze/static/js/2.f0583ba6.chunk.js",
+    "static/js/2.f0583ba6.chunk.js.map": "/MicroMaze/static/js/2.f0583ba6.chunk.js.map",
+    "index.html": "/MicroMaze/index.html",
+    "precache-manifest.25e3207bede0b4dc75afbef2da33db27.js": "/MicroMaze/precache-manifest.25e3207bede0b4dc75afbef2da33db27.js",
+    "service-worker.js": "/MicroMaze/service-worker.js",
+    "static/css/main.0832cd0d.chunk.css.map": "/MicroMaze/static/css/main.0832cd0d.chunk.css.map"
+  }
+}
